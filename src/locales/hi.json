@@ -1,0 +1,27 @@
+{
+  "categories": {
+    "india": "भारत",
+    "world": "विश्व",
+    "politics": "राजनीति",
+    "business": "व्यापार",
+    "sports": "खेल",
+    "technology": "प्रौद्योगिकी",
+    "entertainment": "मनोरंजन",
+    "lifestyle": "जीवनशैली",
+    "opinion": "राय",
+    "category": "श्रेणी",
+    "readTime": "{{time}} मिनट पढ़ें"
+  },
+  "subscribe": "सदस्यता लें",
+  "searchPlaceholder": "समाचार खोजें...",
+  "lightMode": "लाइट मोड",
+  "darkMode": "डार्क मोड",
+  "articles": {
+    "1": {
+      "title": "न्यूज़ शीर्षक 1",
+      "summary": "यह एक समाचार लेख का सारांश है।",
+      "author": "जॉन डो",
+      "publishedAt": "11 सितंबर 2025"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "categories": {
+    "india": "India",
+    "world": "World",
+    "politics": "Politics",
+    "business": "Business",
+    "sports": "Sports",
+    "technology": "Technology",
+    "entertainment": "Entertainment",
+    "lifestyle": "Lifestyle",
+    "opinion": "Opinion",
+    "category": "Category",
+    "readTime": "{{time}} min read"
+  },
+  "subscribe": "Subscribe",
+  "searchPlaceholder": "Search news...",
+  "lightMode": "Light Mode",
+  "darkMode": "Dark Mode",
+  "articles": {
+    "1": {
+      "title": "News Title 1",
+      "summary": "This is a summary of a news article.",
+      "author": "John Doe",
+      "publishedAt": "September 11, 2025"
+    }
+  }
+}
